@@ -1,4 +1,4 @@
 # Lab2_Triqui_AI
 Integrantes:
-Nicolás Taborda Hoyos
-Beycker Alexis Agredo
+\n Nicolás Taborda Hoyos
+\n Beycker Alexis Agredo
